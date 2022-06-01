@@ -8,6 +8,7 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
 <br>
+Read image and convert it to grayscale image
 
 ### Step2:
 <br>
