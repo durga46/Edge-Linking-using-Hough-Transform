@@ -30,12 +30,9 @@ Draw lines on the image
 Display the result
 <br>
 <br>
-<br>
 
 ## Program:
 ```Python
-
-
 # Read image and convert it to grayscale image
 import cv2 
 import numpy as np
