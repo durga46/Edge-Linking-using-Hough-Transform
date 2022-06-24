@@ -29,7 +29,8 @@ Draw lines on the image
 ### Step5:
 Display the result
 <br>
-
+<br>
+<br>
 
 ## Program:
 ```Python
